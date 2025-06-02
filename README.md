@@ -21,7 +21,12 @@ Belirli Twitch kullanıcılarını chatler içinde takip eden ve tespit edildiğ
 
 ## 🛠️ Kurulum
 
+Projeyi klonlayın:
 
+```bash
+git clone https://github.com/KULLANICI_ADIN/tracksniper.git
+cd tracksniper
+```
 
 Gereken paketleri yükleyin:
 
@@ -44,6 +49,14 @@ pip install -r requirements.txt
    - Takip etmek istediğiniz kullanıcı adını yazın.
 3. **Başlat** butonuna basın.
 4. Bot, kullanıcının hangi kanalda olduğunu anlık olarak bildirir.
+
+---
+
+## 📸 Ekran Görüntüsü
+
+![TrackSniper Screenshot](Screenshot.png)
+
+> Uygulamanın çalışma ekranı.
 
 ---
 
